@@ -1,0 +1,13 @@
+@import "tailwindcss";
+.card{
+  width: 45%;
+  height: 400px;
+  background-color: blue;
+  margin-bottom: 3vw;
+}
+.cards{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+  
+}
